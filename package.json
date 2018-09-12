@@ -1,0 +1,31 @@
+{
+  "name": "weather-hf",
+  "version": "1.0.0",
+  "description": "heweather-cli",
+  "main": "cli.js",
+  "dependencies": {
+    "conf": "^2.0.0",
+    "chalk": "^2.4.1",
+    "axios": "^0.18.0",
+    "meow": "^5.0.0",
+    "update-notifier": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiwent/weather-hf.git"
+  },
+  "keywords": [
+    "weather",
+    "cli"
+  ],
+  "author": "chiwent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiwent/weather-hf/issues"
+  },
+  "homepage": "https://github.com/chiwent/weather-hf#readme"
+}
